@@ -15,3 +15,4 @@ python /usr/local/bin/appcfg.py update .
 https://console.cloud.google.com/appengine/settings?project=你的 Application ID 点击修改，添加你刚刚设置的信赖gmail，保存。
 
 大功告成，手动发送一次，应该就成功了。
+接下来要去搜寻好的rss了。请移步RssConfig
